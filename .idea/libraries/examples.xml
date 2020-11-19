@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="examples">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../Proj/TIJ4-code-master/examples" />
+      <root url="file://$PROJECT_DIR$/../../../../Proj/TIJ4-code-master/examples/io" />
+      <root url="file://$PROJECT_DIR$/../../../../Proj/TIJ4-code-master/examples/io/xfiles" />
+    </SOURCES>
+  </library>
+</component>
